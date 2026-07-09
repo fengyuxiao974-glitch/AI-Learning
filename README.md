@@ -1,11 +1,19 @@
-# AI Learning
+# Day04 - HTTP、JSON 与 requests
 
-这是我的第一个 AI 学习项目。
+## 今日目标
 
-目标：
+理解 AI 为什么能够和服务器通信。
 
-- 学习 Python
-- 学习 Git
-- 学习 AI
-- 学习 RAG
-- 学习 Agent
+## 今日学习内容
+
+- HTTP
+- JSON
+- requests
+
+## 今日项目
+
+HTTP 请求练习
+
+## 今日收获
+
+（课程结束后填写）

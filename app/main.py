@@ -1,7 +1,6 @@
-from greeting import welcome
 
 def main():
-    print(welcome("dawei"))
+    print()
 
 if __name__ == "__main__":
     main()
