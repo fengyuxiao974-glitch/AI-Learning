@@ -1,0 +1,17 @@
+2026年7月工作总结摘要
+
+一、项目成果
+- 完成了 AI ChatBot 项目开发，实现了多轮对话功能和工程化升级，并学习了 Prompt Engineering。
+
+二、学习进展
+- 已完成：Python 基础、HTTP/JSON/API
+- 进行中：Function Calling
+
+三、下月计划
+- 学习 RAG 知识库、AI Agent，并完成一个完整的 AI 项目。
+
+四、存在问题
+- API 调用偶尔超时，需要优化 Prompt 设计。
+
+五、整体评价
+- 本月学习进展顺利，代码提交活跃，GitHub 上有 8 个 Day 项目，整体表现良好。

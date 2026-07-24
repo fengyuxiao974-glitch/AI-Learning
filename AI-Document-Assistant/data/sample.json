@@ -1,0 +1,16 @@
+{
+  "project": "AI Learning",
+  "days_completed": 8,
+  "topics": [
+    "Python基础",
+    "HTTP/JSON",
+    "AI ChatBot",
+    "工程化",
+    "Prompt Engineering",
+    "Function Calling"
+  ],
+  "stats": {
+    "total_commits": 45,
+    "lines_of_code": 1200
+  }
+}
